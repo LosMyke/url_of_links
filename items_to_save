@@ -1,0 +1,16 @@
+#SUMMARY
+File to save links I should save for future use
+
+##TEMPLATE
+TITLE:
+DATE:
+URL:
+NOTE: 
+TAG:
+
+
+TITLE: OpenSSL Command-Line HOWTO
+DATE: 04/08/216
+URL: https://www.madboa.com/geek/openssl/
+NOTE: Good cheat sheet on various OpenSSL commands. 
+TAG: ssl, security, cheat-sheet
