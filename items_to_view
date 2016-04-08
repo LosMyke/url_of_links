@@ -5,10 +5,17 @@ File to save links I'd like to review in my free time.
 
 ##TEMPLATE
 TITLE:
+DATE:
 URL:
 NOTE: 
 
 ## URL's
 TITLE: The sugar conspiracy
+DATE: 04/07/2016
 URL: http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin
 NOTE: Long read, looks interesting
+
+TITLE: 
+DATE: 04/08/2016
+URL: https://theintercept.com/2016/04/08/cia-skincare-startup/
+NOTE: Beauty Secrets of the Spies
