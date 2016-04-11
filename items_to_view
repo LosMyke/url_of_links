@@ -9,13 +9,13 @@ DATE:
 URL:
 NOTE: 
 
-## URL's
-TITLE: The sugar conspiracy
-DATE: 04/07/2016
-URL: http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin
-NOTE: Long read, looks interesting
-
+## URLs
 TITLE: Beauty Secrets of the Spies 
 DATE: 04/08/2016
 URL: https://theintercept.com/2016/04/08/cia-skincare-startup/
 NOTE: CIA's VC funding skin care?
+
+TITLE: Notes on Google's Site Reliability Engineering book
+DATE: 04/11/2016
+URL: http://danluu.com/google-sre-book/
+NOTE: Good bullet points on what a SRE is and the benefits of hiring
