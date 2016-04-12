@@ -19,3 +19,10 @@ TITLE: Notes on Google's Site Reliability Engineering book
 DATE: 04/11/2016
 URL: http://danluu.com/google-sre-book/
 NOTE: Good bullet points on what a SRE is and the benefits of hiring
+
+TITLE: Semicolons do matter 
+DATE: 04/12/2016
+URL: http://blog.rrowland.com/2016/04/11/semicolons-do-matter/
+NOTE: Was recieving DB error when first attempting to view
+
+
