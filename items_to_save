@@ -25,4 +25,16 @@ TITLE: Chaos Lambda
 DATE: 04/27/2016
 URL: https://github.com/bbc/chaos-lambda
 NOTE: Will potentially terminate one instance per Auto Scaling Group in the region.
-TAG: AWS, 
+TAG: AWS
+
+TITLE: AWS WAF TOR Blocking 
+DATE: 04/27/2016
+URL: https://github.com/awslabs/aws-waf-sample/tree/master/waf-tor-blocking
+NOTE: Good project to keep remember
+TAG: AWS, WAF
+
+TITLE:
+DATE:
+URL:
+NOTE: 
+TAG:
